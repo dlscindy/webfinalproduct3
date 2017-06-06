@@ -1,4 +1,10 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
 	<h1>仿oppo官网</h1>
 	<h2>项目成员</h2>
 	<ul>
@@ -39,6 +45,9 @@
 				<td>吴雨欣</td>
 				<td></td>
 			</tr>
-		</table>
-	</ul>
+
+	
+
+</body>
+</html>
 

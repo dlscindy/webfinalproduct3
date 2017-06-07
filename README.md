@@ -13,6 +13,7 @@
 				<td>学号</td>
 				<td>姓名</td>
 				<td>github用户名</td>
+				<td>代码量</td>
 				<td>备注</td>
 			</tr>
 			<tr>
@@ -20,6 +21,7 @@
 				<td>2015210405018</td>
 				<td>陈都</td>
 				<td>dlscindy</td>
+				<td>275655</td>	
 				<td>组长</td>
 			</tr>
 			<tr>
@@ -27,13 +29,15 @@
 				<td>2015210405045</td>
 				<td>徐欣奕</td>
 				<td>mykepler</td>
-				<td></td>
+				<td>199942</td>
+				<td>有activity记录，但没有contribution记录</td>
 			</tr>
 			<tr>
 				<td>软工152</td>
 				<td>2015210405048</td>
 				<td>翟键羽</td>
 				<td>zhaijianyu</td>
+				<td>160540</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -41,6 +45,7 @@
 				<td>2015210405053</td>
 				<td>詹罗梦甜</td>
 				<td>zhanlmt</td>
+				<td>161003</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -48,6 +53,7 @@
 				<td>2015210405067</td>
 				<td>吴雨欣</td>
 				<td>wuyuxin2</td>
+				<td>161310</td>
 				<td></td>
 			</tr>
 		</table>
